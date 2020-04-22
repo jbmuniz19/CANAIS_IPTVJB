@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTINF:-1, TLC
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tlc_15aa0c7e_d8efef868da61db279fc9ef63e985772c2ad64de/playlist.m3u8
+#EXTINF:-1, RECORD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, GLOBO
+http://proxyts.canais.ink:8080/a/hls/bobosp.m3u8
+#EXTINF:-1, SBT
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist_w885577883.m3u8
+#EXTINF:-1, ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, ESPN HD
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, ESPN 2 HD
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, CNN Brasil HD
+https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8
+#EXTINF:-1, Comedy Central
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/comedycentral_17037754_c005024775de4cc65408a2baa072dfc54e8127ba/playlist.m3u8
+#EXTINF:-1, BAND NEWS HD
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/bandnews_aee544ce_9cc5b18ece17c2c5897279b3736e0976edf98a97/playlist.m3u8
+#EXTINF:-1, BAND
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/band_49e3d046_807f4488d47021791e66fcae3b161a8f1f0b2449/playlist.m3u8
+#EXTINF:-1,SporTV
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_2a7449fe7c1055d9673775aa009d1580d98764d6/playlist.m3u8
+#EXTINF:-1,SporTV 2 HD
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/sportv2_22ab0e43_dd00a7c8b29eaf539f9fada7e6783d3714f4422c/playlist.m3u8
+#EXTINF:-1,SporTV 3 HD
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/sportv3_e1a864f0_53a2a78b8ae019b4e9e6bccf496b910a315a5db6/playlist.m3u8
+#EXTINF:-1,Canal Combate
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/combate_ac3478d6_25e677af2e9f5f7f0322d6c6a2aa89af75520982/playlist.m3u8
+#EXTINF:-1,Band Sports
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/bandsports_f53eac2e_fffaedbe3290efe7b469367b52abac3c45e2cec9/playlist.m3u8
+#EXTINF:-1,Fox Sports
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/foxsports_8a1beaee_d781d1e222d6649c3809a7c2e460cfc127dae373/playlist.m3u8
+#EXTINF:-1,Fox Sports HD
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports2hd_2a7541ba_bc02edb6684ab4a5ae81713f3a696c5ab28bb3ba/playlist.m3u8
+#EXTINF:-1,Fox Sports 2
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/sportv2_22ab0e43_9677fe333cb3ac45e650fe34945034dac415b4df/playlist.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/sportv2_22ab0e43_9677fe333cb3ac45e650fe34945034dac415b4df/playlist.m3u8
+#EXTINF:-1,Fox
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/fox_5a5b0f9b_970d258f7f2bf0b69f978af3e827050b0e84b056/playlist.m3u8
+#EXTINF:-1,Fox HD
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/fox_5a5b0f9b_970d258f7f2bf0b69f978af3e827050b0e84b056/playlist.m3u8
+#EXTINF:-1,Fox Premium 1
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/foxpremium1_1bdf1a2f_9f1005cf85b1e05938b758d3dc281ccdad202c40/playlist.m3u8
+#EXTINF:-1,HBO
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hbo1080p_63266754_3fcb729fdd84f99ce4c1dd3b3e945cfba42c8ba7/playlist.m3u8
+#EXTINF:-1,HBO HD
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hbo1080p_63266754_3fcb729fdd84f99ce4c1dd3b3e945cfba42c8ba7/playlist.m3u8
+#EXTINF:-1,HBO Plus 1080p
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hboplus1080p_39dfc9ff_8666fd88de866a84be712b930df0645a67f2cdf8/playlist.m3u8
+#EXTINF:-1,Cinemax 720p
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/cinemax720p_49117359_63386909fd18d992cfbe355e34c33eae00ff34f7/playlist.m3u8
+#EXTINF:-1,Cinemax 480p
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/cinemax480p_22d200f8_9123d327d114ba1f3e162f09e25c12dde7539984/playlist.m3u8
+#EXTINF:-1,Space
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_70c327ad20d8573fbc83eb7b8335253555cdef20/playlist.m3u8
+#EXTINF:-1,Telecine Fun
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinefun_ae1e7198_91de112ef61ed4d800c98cc046e8d20bde1be471/playlist.m3u8
+#EXTINF:-1,Telecine Cult
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/telecinecult_8d255e1e_5dcd70ffd75214cbb38af639f75f1903c9d78bc5/playlist.m3u8
+#EXTINF:-1,Telecine Premium
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecinepremium_a929eb33_592ac1c7e165d29e683018e1d1ccbca405ed1c83/playlist.m3u8
+#EXTINF:-1,Telecine Action
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecineaction_be057d4c_b9b4c6ae74fd77d97b1678605446fb93210b0665/playlist.m3u8
+#EXTINF:-1,Telecine Pipoca
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_4503a0015fc441006be37d38895b1f02042f1516/playlist.m3u8
+#EXTINF:-1,Sony
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/sony_06349be7_f0f4c58bb388f739d40913c3ffad4de110ed6fdb/playlist.m3u8
+#EXTINF:-1,Megapix
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/megapix_a6f16ab4_670365aa03aa177cfd3476b468321a1ab6428af9/playlist.m3u8
+#EXTINF:-1,Animal Planet
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/animalplanet_e114c448_79881fddb6e495f33e468c95adec5430b7e3ed1c/playlist.m3u8
+#EXTINF:-1,Discovery Channe
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/discoverychannel_af3e1334_63d6c8b8cfc91bafc4eb7554d8cd20b9f47fc3b4/playlist.m3u8
+#EXTINF:-1,TNT Series
+https://live.multicanais.com/mylive/tntseriessd/video.m3u8?md5=60v_Co8q-Ougg3Q6uVpAJQ&expires=1587529046
+#EXTINF:-1,Discovery Kids
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverykids_80e28a51_fd72574699bc8eaefe481045511f5655472aff86/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cartoonnetwork_511a418e_da9d56357f80fdd2b09771f6c75df78c0d530d87/playlist.m3u8
+#EXTINF:-1,Boomerang
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/boomerang_2659fc51_cf116abab6135f9e147e35ce8c1fe69da9b3f31d/playlist.m3u8
+#EXTINF:-1,Tooncast
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tooncast_8effee40_630b06bf8c27d81dafb16117fbca619c8256d35e/playlist.m3u8
